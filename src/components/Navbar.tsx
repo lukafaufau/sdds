@@ -219,7 +219,7 @@ const Navbar: React.FC<NavbarProps> = ({ onToggleMusicPlayer }) => {
                 className="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-md transition-colors text-center mt-2"
                 onClick={closeMenu}
               >
-                Login with Discord
+                Login witch google
               </Link>
             )}
           </div>
